@@ -1,3 +1,3 @@
 # Mugis-wed
 
-La wed oficial de mugis 
+La wed oficial de mugis
