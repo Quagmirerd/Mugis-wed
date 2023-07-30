@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+ <html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>mugis wed</title>
+    <meta name="MUGIStv" content="MUGIStv wed">
+    <meta name="MUGIStv"  content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico.png"/>
+    </head>
+    <body>  
+    <div>
+      <script src="" async defer></script>
+      <img src="imagenes code/Captura de pantalla 2023-07-27 125618.png"><header>
+      </header>
+      <header>
+    <img src="imagenes code/mugis-transformed.png">
+      <h1>MUGIStv</h1>
+      <h2>Creando Video reacciones, tops, Pódcast y más!</h2>
+      </html>
+  <section>
+    <article>
+      <p>Nos puedes encontrar en:</p>
+      <header>
+        <aside class="a1">
+      <a href="https://www.youtube.com/@Mugistv">Youtube</a>
+        </header>
+      </aside>
+      <header>
+        <aside class="a2">
+      <a href="https://www.instagram.com/mugistv/#">INSTAGRAM</a>
+        </aside>
+      </header>
+      <header>
+        <aside class="a3">
+      <a href="https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqbjRVeU5JZnBQLWpXZFB1MHdZcV8tSTJxQlFyUXxBQ3Jtc0tuV0RQZ1VxaDFDczY5eXMweHpTdVlrcDlZcDlCbDlJY0hhMVJfaFRTbE5LazFGMFpkT29xNDNKX0VtWk9yNmhYQWl1X2tkVzFMcDJFdUxaaHVEMHhtNWZIUk1uOG5qeW5aRnZwYnJQLVQwbGNhRTlFQQ&q=https%3A%2F%2Fwww.patreon.com%2Fmugistv">Patreon</a>
+        </header>
+        </aside>
+        <header>
+        <header>
+        <aside class="a4">
+      <a href="https://discord.gg/WS9Y7WzP">Discord:</a>
+        </aside>
+      </header>
+        <aside class="a5">
+      <a href="https://www.twitch.tv/mugistv">Twitch</a>
+        </aside>
+        <header>
+        <p>Nuestros miembros son:</p>
+      <h2>junior</h2>
+      <aside class="a6">
+        <a href="https://instagram.com/imjuniorbig?igshid=MzRlODBiNWFlZA==">INSTAGRAM</a>
+          </aside>
+          <header>
+      <img src="https://media.discordapp.net/attachments/1125846724452290692/1134998109420797982/1FCF89F6-0925-44D8-A2C0-6D253C807E4B.jpg?width=356&height=429">
+    </header>
+    <h2>Joel</h2>
+      <aside class="a7">
+      <a href="https://instagram.com/i_am.grizzly?igshid=MzRlODBiNWFlZA==">INSTAGRAM</a>
+      </aside>
+      <header>
+        <img src="https://media.discordapp.net/attachments/1125846724452290692/1134997096496381952/IMG_1029.png?width=431&height=429">
+        <h2>Gilbert</h2>
+        <aside class="a8">
+          <a href="https://instagram.com/ice_bear0711?igshid=MzRlODBiNWFlZA==">INSTAGRAM</a>
+          </aside>
+          <header>
+            <img src="https://media.discordapp.net/attachments/1125846724452290692/1135005790718140506/D15075A1-A042-4760-81C8-A017218B68CC.jpg?width=354&height=429">
+            <aside>
+          <h2>Zamira</h2>
+          <aside class="a9">
+        <a href="https://instagram.com/zamirasgarcia?igshid=MzRlODBiNWFlZA==">INSTAGRAM</a>
+          </aside>
+          <header>
+          <img src="https://media.discordapp.net/attachments/1125846724452290692/1135009032151773184/30FDD680-2AE0-497B-A75A-ECA4AB2EDE4D.jpg?width=343&height=429">
+          </header>
+          <h2>Andy</h2>
+          <aside class="a10">
+        <a href="https://instagram.com/iandymartinez?igshid=MzRlODBiNWFlZA==">INSTAGRAM</a>
+          </aside>
+          <header>
+            <img src="https://media.discordapp.net/attachments/1125846724452290692/1135011131514167346/FF9F7BA9-75EA-46E8-8433-AFF1677C6CB6.jpg?width=359&height=429">
+            <h2>Maxy</h2>
+            <aside class="a11">
+          <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlwVEFGUWltQmtYdzZFeldYZ1JhWW1jRjJfZ3xBQ3Jtc0ttbEJGeHExNnhIdlpKSHNieU9tNnhLNlVmdzZFaDgzVnowbG5Kb00ybVlmWU9JRmhmNF9YT2EyZnUwMWtKZXdwdGE5ZF96ekZmUFZwelJFakVNeEIzNTZnQ195YnpRT05WSUw1ekdsVDBDc1BEbXFRRQ&q=https%3A%2F%2Fwww.instagram.com%2Fmaxyant&v=slh9ikcfXfk">INSTAGRAM</a>
+            </aside>
+            <header>
+              <img src="https://media.discordapp.net/attachments/1125846724452290692/1135014425636647022/D1D18138-17AC-4824-9D05-5805A48F11ED.jpg?width=278&height=429">
+            </header>
+          </header>
+      </aside>
+      </header>
+    </article>
+    </section>
+    </div>
+    </body>
+    body {
+    font-family: Arial, sans-serif;
+    background-color:#0f0f0f;
+    margin: 5;
+    padding: 5;
+    text-align: center;
+  }
+.a1 {
+    display: inline-block;
+    background-color: #e40b0b;
+    color: #fffdfd;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+    .a2 {
+        display: inline-block;
+        background-color: #e932da;
+        color: #ffffff;
+        text-align: center;
+        padding: 20px 20px;
+        margin: 10px;
+        border-radius: 4px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+        cursor: pointer;
+  }
+.a3 {
+    display: inline-block;
+    background-color: #1a161a;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+.a4 {
+    display: inline-block;
+    background-color: #456beb;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+.a5 {
+    display: inline-block;
+    background-color: #7025e7;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+    .a6 {
+      display: inline-block;
+      background-color: #e932da;
+      color: #ffffff;
+      text-align: center;
+      padding: 20px 20px;
+      margin: 10px;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+      cursor: pointer;
+}
+.a7 {
+  display: inline-block;
+  background-color: #e932da;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+.a8 {
+  display: inline-block;
+  background-color: #e932da;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+.a9 {
+  display: inline-block;
+  background-color: #e932da;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+.a10 {
+  display: inline-block;
+  background-color: #e932da;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+.a11 {
+  display: inline-block;
+  background-color: #e932da;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+  header{
+    background-color: #0f0f0f;
+  }
+
+  section, .a1, .a2, .a3, .a4, .a5  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1, h2, h3, article {
+    color: white;
+  }
